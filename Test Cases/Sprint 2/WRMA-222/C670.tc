@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user can sign up using a previously deleted user account</description>
+   <name>C670</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9daade36-31d5-411d-bb0b-c4873651e437</testCaseGuid>
+</TestCaseEntity>
